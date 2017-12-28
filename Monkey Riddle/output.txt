@@ -1,0 +1,426 @@
+Running simulation number 1
+Monkey initial position: 9
+Guessed 2 while monkey was in 9. Missed.
+Moved from 9 to 10.
+Guessed 3 while monkey was in 10. Missed.
+Moved from 10 to 9.
+Guessed 4 while monkey was in 9. Missed.
+Moved from 9 to 10.
+Guessed 5 while monkey was in 10. Missed.
+Moved from 10 to 9.
+Guessed 6 while monkey was in 9. Missed.
+Moved from 9 to 8.
+Guessed 7 while monkey was in 8. Missed.
+Moved from 8 to 7.
+Guessed 8 while monkey was in 7. Missed.
+Moved from 7 to 6.
+Guessed 9 while monkey was in 6. Missed.
+Moved from 6 to 5.
+Guessed 9 while monkey was in 5. Missed.
+Moved from 5 to 6.
+Guessed 8 while monkey was in 6. Missed.
+Moved from 6 to 7.
+Guessed 7 while monkey was in 7. HIT!
+
+
+Running simulation number 2
+Monkey initial position: 6
+Guessed 2 while monkey was in 6. Missed.
+Moved from 6 to 7.
+Guessed 3 while monkey was in 7. Missed.
+Moved from 7 to 6.
+Guessed 4 while monkey was in 6. Missed.
+Moved from 6 to 5.
+Guessed 5 while monkey was in 5. HIT!
+
+
+Running simulation number 3
+Monkey initial position: 1
+Guessed 2 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 3 while monkey was in 2. Missed.
+Moved from 2 to 1.
+Guessed 4 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 5 while monkey was in 2. Missed.
+Moved from 2 to 3.
+Guessed 6 while monkey was in 3. Missed.
+Moved from 3 to 2.
+Guessed 7 while monkey was in 2. Missed.
+Moved from 2 to 1.
+Guessed 8 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 9 while monkey was in 2. Missed.
+Moved from 2 to 3.
+Guessed 9 while monkey was in 3. Missed.
+Moved from 3 to 4.
+Guessed 8 while monkey was in 4. Missed.
+Moved from 4 to 5.
+Guessed 7 while monkey was in 5. Missed.
+Moved from 5 to 4.
+Guessed 6 while monkey was in 4. Missed.
+Moved from 4 to 5.
+Guessed 5 while monkey was in 5. HIT!
+
+
+Running simulation number 4
+Monkey initial position: 7
+Guessed 2 while monkey was in 7. Missed.
+Moved from 7 to 6.
+Guessed 3 while monkey was in 6. Missed.
+Moved from 6 to 7.
+Guessed 4 while monkey was in 7. Missed.
+Moved from 7 to 6.
+Guessed 5 while monkey was in 6. Missed.
+Moved from 6 to 7.
+Guessed 6 while monkey was in 7. Missed.
+Moved from 7 to 6.
+Guessed 7 while monkey was in 6. Missed.
+Moved from 6 to 7.
+Guessed 8 while monkey was in 7. Missed.
+Moved from 7 to 8.
+Guessed 9 while monkey was in 8. Missed.
+Moved from 8 to 7.
+Guessed 9 while monkey was in 7. Missed.
+Moved from 7 to 6.
+Guessed 8 while monkey was in 6. Missed.
+Moved from 6 to 7.
+Guessed 7 while monkey was in 7. HIT!
+
+
+Running simulation number 5
+Monkey initial position: 6
+Guessed 2 while monkey was in 6. Missed.
+Moved from 6 to 7.
+Guessed 3 while monkey was in 7. Missed.
+Moved from 7 to 8.
+Guessed 4 while monkey was in 8. Missed.
+Moved from 8 to 9.
+Guessed 5 while monkey was in 9. Missed.
+Moved from 9 to 8.
+Guessed 6 while monkey was in 8. Missed.
+Moved from 8 to 7.
+Guessed 7 while monkey was in 7. HIT!
+
+
+Running simulation number 6
+Monkey initial position: 3
+Guessed 2 while monkey was in 3. Missed.
+Moved from 3 to 2.
+Guessed 3 while monkey was in 2. Missed.
+Moved from 2 to 1.
+Guessed 4 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 5 while monkey was in 2. Missed.
+Moved from 2 to 3.
+Guessed 6 while monkey was in 3. Missed.
+Moved from 3 to 2.
+Guessed 7 while monkey was in 2. Missed.
+Moved from 2 to 3.
+Guessed 8 while monkey was in 3. Missed.
+Moved from 3 to 2.
+Guessed 9 while monkey was in 2. Missed.
+Moved from 2 to 1.
+Guessed 9 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 8 while monkey was in 2. Missed.
+Moved from 2 to 3.
+Guessed 7 while monkey was in 3. Missed.
+Moved from 3 to 4.
+Guessed 6 while monkey was in 4. Missed.
+Moved from 4 to 3.
+Guessed 5 while monkey was in 3. Missed.
+Moved from 3 to 2.
+Guessed 4 while monkey was in 2. Missed.
+Moved from 2 to 1.
+Guessed 3 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 2 while monkey was in 2. HIT!
+
+
+Running simulation number 7
+Monkey initial position: 1
+Guessed 2 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 3 while monkey was in 2. Missed.
+Moved from 2 to 3.
+Guessed 4 while monkey was in 3. Missed.
+Moved from 3 to 2.
+Guessed 5 while monkey was in 2. Missed.
+Moved from 2 to 1.
+Guessed 6 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 7 while monkey was in 2. Missed.
+Moved from 2 to 1.
+Guessed 8 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 9 while monkey was in 2. Missed.
+Moved from 2 to 1.
+Guessed 9 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 8 while monkey was in 2. Missed.
+Moved from 2 to 1.
+Guessed 7 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 6 while monkey was in 2. Missed.
+Moved from 2 to 3.
+Guessed 5 while monkey was in 3. Missed.
+Moved from 3 to 2.
+Guessed 4 while monkey was in 2. Missed.
+Moved from 2 to 1.
+Guessed 3 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 2 while monkey was in 2. HIT!
+
+
+Running simulation number 8
+Monkey initial position: 5
+Guessed 2 while monkey was in 5. Missed.
+Moved from 5 to 4.
+Guessed 3 while monkey was in 4. Missed.
+Moved from 4 to 3.
+Guessed 4 while monkey was in 3. Missed.
+Moved from 3 to 2.
+Guessed 5 while monkey was in 2. Missed.
+Moved from 2 to 1.
+Guessed 6 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 7 while monkey was in 2. Missed.
+Moved from 2 to 1.
+Guessed 8 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 9 while monkey was in 2. Missed.
+Moved from 2 to 1.
+Guessed 9 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 8 while monkey was in 2. Missed.
+Moved from 2 to 3.
+Guessed 7 while monkey was in 3. Missed.
+Moved from 3 to 4.
+Guessed 6 while monkey was in 4. Missed.
+Moved from 4 to 5.
+Guessed 5 while monkey was in 5. HIT!
+
+
+Running simulation number 9
+Monkey initial position: 4
+Guessed 2 while monkey was in 4. Missed.
+Moved from 4 to 5.
+Guessed 3 while monkey was in 5. Missed.
+Moved from 5 to 6.
+Guessed 4 while monkey was in 6. Missed.
+Moved from 6 to 7.
+Guessed 5 while monkey was in 7. Missed.
+Moved from 7 to 6.
+Guessed 6 while monkey was in 6. HIT!
+
+
+Running simulation number 10
+Monkey initial position: 6
+Guessed 2 while monkey was in 6. Missed.
+Moved from 6 to 5.
+Guessed 3 while monkey was in 5. Missed.
+Moved from 5 to 6.
+Guessed 4 while monkey was in 6. Missed.
+Moved from 6 to 7.
+Guessed 5 while monkey was in 7. Missed.
+Moved from 7 to 8.
+Guessed 6 while monkey was in 8. Missed.
+Moved from 8 to 7.
+Guessed 7 while monkey was in 7. HIT!
+
+
+Running simulation number 11
+Monkey initial position: 1
+Guessed 2 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 3 while monkey was in 2. Missed.
+Moved from 2 to 3.
+Guessed 4 while monkey was in 3. Missed.
+Moved from 3 to 4.
+Guessed 5 while monkey was in 4. Missed.
+Moved from 4 to 3.
+Guessed 6 while monkey was in 3. Missed.
+Moved from 3 to 2.
+Guessed 7 while monkey was in 2. Missed.
+Moved from 2 to 3.
+Guessed 8 while monkey was in 3. Missed.
+Moved from 3 to 2.
+Guessed 9 while monkey was in 2. Missed.
+Moved from 2 to 3.
+Guessed 9 while monkey was in 3. Missed.
+Moved from 3 to 4.
+Guessed 8 while monkey was in 4. Missed.
+Moved from 4 to 5.
+Guessed 7 while monkey was in 5. Missed.
+Moved from 5 to 4.
+Guessed 6 while monkey was in 4. Missed.
+Moved from 4 to 5.
+Guessed 5 while monkey was in 5. HIT!
+
+
+Running simulation number 12
+Monkey initial position: 9
+Guessed 2 while monkey was in 9. Missed.
+Moved from 9 to 8.
+Guessed 3 while monkey was in 8. Missed.
+Moved from 8 to 7.
+Guessed 4 while monkey was in 7. Missed.
+Moved from 7 to 8.
+Guessed 5 while monkey was in 8. Missed.
+Moved from 8 to 7.
+Guessed 6 while monkey was in 7. Missed.
+Moved from 7 to 8.
+Guessed 7 while monkey was in 8. Missed.
+Moved from 8 to 9.
+Guessed 8 while monkey was in 9. Missed.
+Moved from 9 to 10.
+Guessed 9 while monkey was in 10. Missed.
+Moved from 10 to 9.
+Guessed 9 while monkey was in 9. HIT!
+
+
+Running simulation number 13
+Monkey initial position: 7
+Guessed 2 while monkey was in 7. Missed.
+Moved from 7 to 8.
+Guessed 3 while monkey was in 8. Missed.
+Moved from 8 to 7.
+Guessed 4 while monkey was in 7. Missed.
+Moved from 7 to 6.
+Guessed 5 while monkey was in 6. Missed.
+Moved from 6 to 7.
+Guessed 6 while monkey was in 7. Missed.
+Moved from 7 to 6.
+Guessed 7 while monkey was in 6. Missed.
+Moved from 6 to 5.
+Guessed 8 while monkey was in 5. Missed.
+Moved from 5 to 4.
+Guessed 9 while monkey was in 4. Missed.
+Moved from 4 to 3.
+Guessed 9 while monkey was in 3. Missed.
+Moved from 3 to 4.
+Guessed 8 while monkey was in 4. Missed.
+Moved from 4 to 5.
+Guessed 7 while monkey was in 5. Missed.
+Moved from 5 to 4.
+Guessed 6 while monkey was in 4. Missed.
+Moved from 4 to 3.
+Guessed 5 while monkey was in 3. Missed.
+Moved from 3 to 4.
+Guessed 4 while monkey was in 4. HIT!
+
+
+Running simulation number 14
+Monkey initial position: 4
+Guessed 2 while monkey was in 4. Missed.
+Moved from 4 to 3.
+Guessed 3 while monkey was in 3. HIT!
+
+
+Running simulation number 15
+Monkey initial position: 4
+Guessed 2 while monkey was in 4. Missed.
+Moved from 4 to 3.
+Guessed 3 while monkey was in 3. HIT!
+
+
+Running simulation number 16
+Monkey initial position: 6
+Guessed 2 while monkey was in 6. Missed.
+Moved from 6 to 7.
+Guessed 3 while monkey was in 7. Missed.
+Moved from 7 to 8.
+Guessed 4 while monkey was in 8. Missed.
+Moved from 8 to 7.
+Guessed 5 while monkey was in 7. Missed.
+Moved from 7 to 8.
+Guessed 6 while monkey was in 8. Missed.
+Moved from 8 to 9.
+Guessed 7 while monkey was in 9. Missed.
+Moved from 9 to 10.
+Guessed 8 while monkey was in 10. Missed.
+Moved from 10 to 9.
+Guessed 9 while monkey was in 9. HIT!
+
+
+Running simulation number 17
+Monkey initial position: 6
+Guessed 2 while monkey was in 6. Missed.
+Moved from 6 to 7.
+Guessed 3 while monkey was in 7. Missed.
+Moved from 7 to 8.
+Guessed 4 while monkey was in 8. Missed.
+Moved from 8 to 7.
+Guessed 5 while monkey was in 7. Missed.
+Moved from 7 to 8.
+Guessed 6 while monkey was in 8. Missed.
+Moved from 8 to 7.
+Guessed 7 while monkey was in 7. HIT!
+
+
+Running simulation number 18
+Monkey initial position: 1
+Guessed 2 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 3 while monkey was in 2. Missed.
+Moved from 2 to 3.
+Guessed 4 while monkey was in 3. Missed.
+Moved from 3 to 4.
+Guessed 5 while monkey was in 4. Missed.
+Moved from 4 to 3.
+Guessed 6 while monkey was in 3. Missed.
+Moved from 3 to 4.
+Guessed 7 while monkey was in 4. Missed.
+Moved from 4 to 5.
+Guessed 8 while monkey was in 5. Missed.
+Moved from 5 to 4.
+Guessed 9 while monkey was in 4. Missed.
+Moved from 4 to 5.
+Guessed 9 while monkey was in 5. Missed.
+Moved from 5 to 4.
+Guessed 8 while monkey was in 4. Missed.
+Moved from 4 to 5.
+Guessed 7 while monkey was in 5. Missed.
+Moved from 5 to 4.
+Guessed 6 while monkey was in 4. Missed.
+Moved from 4 to 3.
+Guessed 5 while monkey was in 3. Missed.
+Moved from 3 to 4.
+Guessed 4 while monkey was in 4. HIT!
+
+
+Running simulation number 19
+Monkey initial position: 2
+Guessed 2 while monkey was in 2. HIT!
+
+
+Running simulation number 20
+Monkey initial position: 3
+Guessed 2 while monkey was in 3. Missed.
+Moved from 3 to 2.
+Guessed 3 while monkey was in 2. Missed.
+Moved from 2 to 1.
+Guessed 4 while monkey was in 1. Missed.
+Moved from 1 to 2.
+Guessed 5 while monkey was in 2. Missed.
+Moved from 2 to 3.
+Guessed 6 while monkey was in 3. Missed.
+Moved from 3 to 2.
+Guessed 7 while monkey was in 2. Missed.
+Moved from 2 to 3.
+Guessed 8 while monkey was in 3. Missed.
+Moved from 3 to 4.
+Guessed 9 while monkey was in 4. Missed.
+Moved from 4 to 3.
+Guessed 9 while monkey was in 3. Missed.
+Moved from 3 to 4.
+Guessed 8 while monkey was in 4. Missed.
+Moved from 4 to 3.
+Guessed 7 while monkey was in 3. Missed.
+Moved from 3 to 4.
+Guessed 6 while monkey was in 4. Missed.
+Moved from 4 to 5.
+Guessed 5 while monkey was in 5. HIT!
+
+
